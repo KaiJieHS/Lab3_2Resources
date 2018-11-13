@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 3.2 Resources</string>
+    <string name="message">Ni Hao!</string>
+    <string name="show">Xian Shi</string>
+    <string name="greeting">Ni hao ma?</string>
+</resources>
